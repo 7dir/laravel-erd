@@ -9,5 +9,11 @@
             "email": "mltefive@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+           "type": "vcs",
+           "url": "https://github.com/7dir/laravel-erd" 
+        }
+    ]    
 }
