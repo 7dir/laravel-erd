@@ -1,0 +1,13 @@
+{
+    "name": "7dir/laravel-erd",
+    "description": "some desc",
+    "type": "erd",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike",
+            "email": "mltefive@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
